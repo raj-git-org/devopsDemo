@@ -1,3 +1,4 @@
 Hello World!
 This is my first file for the commit
 Now I am making changes and this will be the second commit
+Now to see the difference and use the git diff command, I am making this change
